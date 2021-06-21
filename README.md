@@ -1,2 +1,2 @@
 
-deploy link: http://https://crypto-clone.netlify.app/
+deploy link: https://crypto-clone.netlify.app/
